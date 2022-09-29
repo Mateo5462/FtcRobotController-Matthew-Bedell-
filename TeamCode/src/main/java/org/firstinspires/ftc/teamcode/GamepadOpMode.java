@@ -18,4 +18,3 @@ public class GamepadOpMode extends OpMode {
      }
 
 }
-
